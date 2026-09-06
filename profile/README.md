@@ -1,10 +1,50 @@
-## Hi there 👋
+# Git Social
 
+**Developer discovery, intelligence and collaboration built around the GitHub ecosystem.**
 
-**Here are some ideas to get you started:**
+Git Social is a platform for discovering developers, analyzing their work, and building meaningful connections across the open-source ecosystem.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+We build tools that turn the public activity of developers and repositories into useful, structured intelligence.
+
+## What we build
+
+* **Developer Discovery** — find developers through repositories, contributors, followers and technical communities.
+* **Developer Intelligence** — analyze technologies, experience, activity and engineering interests.
+* **Repository Analysis** — understand projects, dependencies, contributors and technology stacks.
+* **Developer Graph** — map relationships between developers, repositories and technologies.
+* **Automation & ML** — continuously process large amounts of GitHub data and improve discovery with machine learning.
+
+## Why
+
+GitHub contains an enormous amount of information about how developers actually build software.
+
+The problem is not the lack of data.
+
+**The problem is turning that data into useful knowledge.**
+
+Git Social is an attempt to build that layer.
+
+## Engineering
+
+Git Social is built as a long-running, data-intensive system with a focus on:
+
+* scalable data collection
+* rate-limit aware GitHub integrations
+* asynchronous processing
+* dependency and technology analysis
+* graph-based discovery
+* machine learning
+* observable background workers
+
+The project is being developed with **extensibility, automation and real-world scale** in mind.
+
+## Projects
+
+Our repositories cover different parts of the Git Social ecosystem — from data collection and analysis to developer-facing applications and infrastructure.
+
+> **We are building the infrastructure for understanding the developer ecosystem.**
+
+---
+
+**Git Social**
+[gitsocial.space](https://gitsocial.space/)
