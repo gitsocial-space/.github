@@ -1,8 +1,8 @@
-# Git Social
+# GitSocialSpace
 
 **Developer discovery, intelligence and collaboration built around the GitHub ecosystem.**
 
-Git Social is a platform for discovering developers, analyzing their work, and building meaningful connections across the open-source ecosystem.
+GitSocialSpace is a platform for discovering developers, analyzing their work, and building meaningful connections across the open-source ecosystem.
 
 We build tools that turn the public activity of developers and repositories into useful, structured intelligence.
 
@@ -22,11 +22,11 @@ The problem is not the lack of data.
 
 **The problem is turning that data into useful knowledge.**
 
-Git Social is an attempt to build that layer.
+GitSocialSpace is an attempt to build that layer.
 
 ## Engineering
 
-Git Social is built as a long-running, data-intensive system with a focus on:
+GitSocialSpace is built as a long-running, data-intensive system with a focus on:
 
 * scalable data collection
 * rate-limit aware GitHub integrations
@@ -40,11 +40,11 @@ The project is being developed with **extensibility, automation and real-world s
 
 ## Projects
 
-Our repositories cover different parts of the Git Social ecosystem — from data collection and analysis to developer-facing applications and infrastructure.
+Our repositories cover different parts of the GitSocialSpace ecosystem — from data collection and analysis to developer-facing applications and infrastructure.
 
 > **We are building the infrastructure for understanding the developer ecosystem.**
 
 ---
 
-**Git Social**
+**GitSocialSpace**
 [gitsocial.space](https://gitsocial.space/)
